@@ -256,6 +256,26 @@ text-align: center;
 
 
     }
+    .container3 .container3-home .d1:hover
+    {
+
+        color: white;
+        background-color:#F3487F ;
+        border: 1px solid;
+    }
+   
+    .container3 .container3-home .d1:hover i
+    {
+display: inline-block;
+color:white;
+font-size: 60px;
+margin-top: 50px;
+
+
+
+    }
+   
+  
     .container3 .container3-home .d1
     {
 
